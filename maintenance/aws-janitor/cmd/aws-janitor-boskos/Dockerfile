@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM debian:stretch-20190204-slim
+FROM debian:9.13-slim
 
 RUN apt-get -y update && \
     apt-get -y install ca-certificates && \
