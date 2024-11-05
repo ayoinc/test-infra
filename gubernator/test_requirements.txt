@@ -3,3 +3,4 @@ nosegae
 pylint==1.6.4
 coverage
 pyyaml
+waitress>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
