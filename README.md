@@ -1,5 +1,7 @@
 # test-infra
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/770cf825-6012-4f1a-ab19-d8a4ad51e079.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/test-infra?orgId=666444378491)  
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes/test-infra)](https://goreportcard.com/report/github.com/kubernetes/test-infra)  [![GoDoc](https://godoc.org/github.com/kubernetes/test-infra?status.svg)](https://godoc.org/github.com/kubernetes/test-infra)
 
 This repository contains tools and configuration files for the testing and
